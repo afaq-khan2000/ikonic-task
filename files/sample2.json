@@ -1,0 +1,16 @@
+[
+    {
+        "name": "John Doe",
+        "age": 30,
+        "cars": [
+            {
+                "name": "Ford",
+                "models": [
+                    "Fiesta",
+                    "Focus",
+                    "Mustang"
+                ]
+            }
+        ]
+    }
+]
